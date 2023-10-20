@@ -1,0 +1,64 @@
+[
+    {
+      "_id": "648994d4b22ec994889fb735",
+      "instructorPicture": "https://i.ibb.co/TcgpLfv/teacher1.jpg",
+      "instructorName": "Clay Blevins",
+      "instructorEmail": "clayblevins@fiberox.com",
+      "classPicture": "https://i.ibb.co/cXjTHVm/class1.jpg",
+      "className": "Art Attack",
+      "availableSeats": "43",
+      "price": "249"
+    },
+    {
+      "_id": "648994d4da29563177c7e15b",
+      "instructorPicture": "https://i.ibb.co/sgbwk33/teacher2.jpg",
+      "instructorName": "Malone Landry",
+      "instructorEmail": "malonelandry@fiberox.com",
+      "classPicture": "https://i.ibb.co/gmXW9Qd/class2.jpg",
+      "className": "Color Me Happy",
+      "availableSeats": "42",
+      "price": "246"
+    },
+    {
+      "_id": "648994d4bc340df3bb5727e6",
+      "instructorPicture": "https://i.ibb.co/JrwhCyh/teacher4.jpg",
+      "instructorName": "Marietta Spears",
+      "instructorEmail": "mariettaspears@fiberox.com",
+      "classPicture": "https://i.ibb.co/rdNrrDQ/class3.jpg",
+      "className": "The Fine Line",
+      "availableSeats": "44",
+      "price": "235"
+    },
+    {
+      "_id": "648994d4ae76bf419cd2b9df",
+      "instructorPicture": "https://i.ibb.co/b738cpZ/teacher5.jpg",
+      "instructorName": "Shelton Branch",
+      "instructorEmail": "sheltonbranch@fiberox.com",
+      "classPicture": "https://i.ibb.co/FwV8bYp/class4.jpg",
+      "className": "The Artful Touch",
+      "availableSeats": "48",
+      "price": "254"
+    },
+    {
+      "_id": "648994d4124a356806d3e7cb",
+      "instructorPicture": "https://i.ibb.co/C6sgYrr/tracher7.jpg",
+      "instructorName": "Franklin Beasley",
+      "instructorEmail": "franklinbeasley@fiberox.com",
+      "classPicture": "https://i.ibb.co/xFkrLkz/class5.jpg",
+      "className": "Fill Your Canvas",
+      "availableSeats": "46",
+      "price": "288"
+    },
+    {
+      "_id": "648994d487354dc60f92c803",
+      "instructorPicture": "https://i.ibb.co/LzrS4Yn/teacher8.jpg",
+      "instructorName": "Briana Snider",
+      "instructorEmail": "brianasnider@fiberox.com",
+      "classPicture": "https://i.ibb.co/zFnv5Mc/class6.jpg",
+      "className": " Artful Babe",
+      "availableSeats": "50",
+      "price": "232"
+    }
+
+  ]
+
